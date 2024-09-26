@@ -2,7 +2,14 @@
 
 Lightweight AI powered app using the OpenAI API.
 
-<div style="position: relative; padding-bottom: 64.98194945848375%; height: 0;"><iframe src="https://www.loom.com/embed/454ba3b9f7d34b2f8b2115e10673cc0d?sid=5388bf31-9af4-46be-853c-a846a0cba3e3" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/454ba3b9f7d34b2f8b2115e10673cc0d">
+      <p>Kyle Coapman - OpenAI Flashcard App - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/454ba3b9f7d34b2f8b2115e10673cc0d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/454ba3b9f7d34b2f8b2115e10673cc0d-f8fa5e97aebf79ad-full-play.gif">
+    </a>
+  </div>
 
 1. Install dependencies
 ```
