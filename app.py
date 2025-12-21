@@ -29,14 +29,9 @@ def generate_flashcards(input_text):
 
     flashcards = completion.choices[0].message.parsed.cards
 
-    flashcards_json = [object_to_dict(card) for card in flashcards]
-
-    print(flashcards_json)
+    flashcards_json = [card.model_dump() for card in flashcards]
 
     return flashcards_json
-
-def object_to_dict(obj):
-    return obj.__dict__  # Use __dict__ to get attributes as a dictionary
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
